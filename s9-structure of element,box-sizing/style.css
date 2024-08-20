@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+img{
+    width: 300px;
+    background-color: aqua;
+    margin: 10px;
+    border: 10px ridge blue;
+}
+
+#cbn{
+    background-color: brown;
+    padding: 25px;
+    border: 10px solid lightgreen;
+
+}
+
+#shinde{
+   background-color: chartreuse;
+   padding: 50px ;
+   border: 25px dotted darkmagenta;
+   
+}
+
+
+#mamatha{
+   background-color: cornflowerblue;
+   padding-left: 50;
+   border: 10px dashed darkgoldenrod;
+
+
+}
+#mohan{
+    background-color: crimson;
+    padding: 30px;
+    border: 40px inset lightgreen;
+}
+
+
+#revanth{
+    background-color: aquamarine;
+    padding: 50px;
+    border: 20px outst darkorange;
+
+}
+
+#sidha{
+    background-color: antiquewhite;
+    padding: 40px;
+    border: 20px ridge darkorange;
+}
+
+#bhupendra{
+    background-color: blueviolet;
+    padding: 30px;
+    border: 30px groove darkgreen;
+
+}
+
+#mahji{
+    background-color: burlywood;
+    padding: 25px;
+    border: 30px double darkred;
+}
+
+#rio{
+    background-color:darkolivegreen;
+    padding: 50px;
+    border: 20px none darkkhaki;
+}
+#singh{
+    background-color: black;
+    padding: 40px;
+    border: 25px hidden darkolivegreen;
+}
